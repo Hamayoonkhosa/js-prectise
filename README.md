@@ -1,2 +1,2 @@
 # js-prectise
-new projet
+new project
