@@ -65,24 +65,37 @@
    
 // }
 
-let car={
-    model:"mehran",
-    year:2018,
-    color:["white","silver","blue"],
-    acc(){
-        console.log("can run!!")
-    },
-    breaking(){
-        console.log("can stop!!")
-    },
-    Ac : ()=> "can chill the cabin"
+// let car={
+//     model:"mehran",
+//     year:2018,
+//     color:["white","silver","blue"],
+//     acc(){
+//         console.log("can run!!")
+//     },
+//     breaking(){
+//         console.log("can stop!!")
+//     },
+//     Ac : ()=> "can chill the cabin"
         
     
-}
-console.log (car.Ac())
-car.acc
-car.breaking
-car.color
-car.model
-car.year
+// }
+// console.log (car.Ac())
+// car.acc
+// car.breaking
+// car.color
+// car.model
+// car.year
 
+// obj={
+//     model:"alto",
+//     year:2022,
+//     bodytype:"hatchback",
+// }
+// for (a in obj){
+//     console.log(a)
+// }
+arry = ["abid","chutu","lanat"]
+for(human of arry){
+    console.log(human)
+}
+console.log(arry[2])
